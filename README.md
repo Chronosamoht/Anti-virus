@@ -10,6 +10,6 @@ and tell me what i'm doing wrong and how i can fix that.
 
 I want to import my brand new project called "Anti-virus"
 
-It's a Puzzle reflection game made in ADA base on this game :
+It's a Puzzle reflection game made in ADA based on this game :
 http://www.smartgames.eu/fr/smartgames/anti-virus 
 
